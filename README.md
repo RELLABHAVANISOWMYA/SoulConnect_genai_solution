@@ -21,4 +21,4 @@ cd frontend && npm install && npm start
 ```
 
 ## Contributors
-- Your Name
+- RELLA BHAVANI SOWMYA
